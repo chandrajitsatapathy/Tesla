@@ -48,6 +48,6 @@
     ]
   },
   "resolutions": {
-    "mini-css-extra-plugin": "2.4.5"
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
