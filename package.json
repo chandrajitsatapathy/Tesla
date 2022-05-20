@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "mini-css-extra-plugin": "2.4.5"
   }
 }
